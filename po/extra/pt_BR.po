@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-21 17:41+0000\n"
-"PO-Revision-Date: 2020-05-21 03:11+0000\n"
-"Last-Translator: Rodrigo Oliveira <rod.oliveira@gmail.com>\n"
+"POT-Creation-Date: 2021-07-14 21:00+0000\n"
+"PO-Revision-Date: 2021-08-09 16:35+0000\n"
+"Last-Translator: lucaspifonseca <lucaspifonseca@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.elementary.io/projects/"
 "switchboard/power-plug-extra/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: data/power.appdata.xml.in:5
 msgid "Power Settings"
@@ -30,20 +30,32 @@ msgstr ""
 "suspensão"
 
 #: data/power.appdata.xml.in:12
+msgid "Minor updates:"
+msgstr "Pequenas atualizações:"
+
+#: data/power.appdata.xml.in:14
+msgid "Change lid settings without restarting"
+msgstr ""
+
+#: data/power.appdata.xml.in:15
+msgid "Show in search results for \"sleep\" and \"timeout\""
+msgstr ""
+
+#: data/power.appdata.xml.in:16 data/power.appdata.xml.in:23
+#: data/power.appdata.xml.in:28 data/power.appdata.xml.in:35
+msgid "Updated translations"
+msgstr "Traduções atualizadas"
+
+#: data/power.appdata.xml.in:22
 msgid "Fix potential freeze when changing settings from multiple panes"
 msgstr ""
 "Corrige o possível congelamento ao alterar as configurações de vários painéis"
 
-#: data/power.appdata.xml.in:13 data/power.appdata.xml.in:18
-#: data/power.appdata.xml.in:25
-msgid "Updated translations"
-msgstr "Traduções atualizadas"
-
-#: data/power.appdata.xml.in:23
+#: data/power.appdata.xml.in:33
 msgid "Remove broken hibernate option"
 msgstr "Remover opção de hibernação quebrada"
 
-#: data/power.appdata.xml.in:24
+#: data/power.appdata.xml.in:34
 msgid "Add prompt to shutdown to power button actions"
 msgstr "Adicionar aviso para o desligamento às ações do botão de energia"
 
